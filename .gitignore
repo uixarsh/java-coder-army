@@ -1,0 +1,22 @@
+# IntelliJ IDEA Project files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# If you want to share specific IntelliJ settings (like code style),
+# you can use negative ignores to keep them:
+# !.idea/codeStyles/
+# !.idea/copyright/
+# !.idea/vcs.xml
+
+# Output directories
+out/
+build/
+target/
+
+# Local history
+.idea/shelf/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
